@@ -1,8 +1,8 @@
 # 💫 Hi, there!
 
-I'm Luís Gonçalves
+# I'm Luís Gonçalves
 
-An aerospace engineer turned fullstack developer
+An Aerospace Engineer turned Fullstack Developer
 
 
 ## 🌐 Socials:
