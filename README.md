@@ -1,6 +1,6 @@
 # 💫 Hi, there!
 
-# I'm Luís Gonçalves
+## I'm Luís Gonçalves
 
 An Aerospace Engineer turned Fullstack Developer
 
