@@ -1,4 +1,7 @@
-# 💫 About Me:
+# 💫 Hi, there!
+
+I'm Luís Gonçalves
+
 An aerospace engineer turned fullstack developer
 
 
@@ -19,6 +22,6 @@ An aerospace engineer turned fullstack developer
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=luigoncalves&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
